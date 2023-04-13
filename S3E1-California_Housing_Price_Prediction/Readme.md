@@ -4,6 +4,20 @@ This repository contains the Jupyter Notebook and supporting files for the Calif
 The goal of this project is to predict the median house value in California using various machine learning algorithms. 
 The dataset used for this project was obtained from a Kaggle competition (https://www.kaggle.com/competitions/playground-series-s3e1/overview).
 
+## Dataset
+
+The dataset for this competition consists of two parts: train and test. Both datasets contain information about the housing prices in California, with features described below. The target variable is the median house value(expressed in hundreds of thousands of dollars, i.e. $100,000), which we will try to predict using various machine learning algorithms. The evaluation metric is going to be the standard Root Mean Squared Error (RMSE)
+
+- MedInc - Median income in block group
+- HouseAge - Median house age in block group
+- AveRooms - Average number of rooms per household
+- AveBedrms - Average number of bedrooms per household
+- Population - Block group population
+- AveOccup - Average number of household members
+- Latitude - Block group latitude
+- Longitude - Block group longitude
+
+
 ## Overview
 
 1. Exploratory Data Analysis (EDA)
