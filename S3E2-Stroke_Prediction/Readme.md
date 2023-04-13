@@ -2,6 +2,23 @@
 
 This repository contains the code and resources for the Stroke Prediction Kaggle Competition. The goal of the competition is to predict the likelihood of a patient experiencing a stroke based on various input features. Submissions are evaluated based on the Area Under the Receiver Operating Characteristic (ROC) curve (AUC-ROC).
 
+## Dataset
+
+The dataset used in this competition contains information about patients, including demographic data, medical history, and lifestyle habits. The features include:
+
+- id: unique identifier
+- gender: "Male", "Female" or "Other"
+- age: age of the patient
+- hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
+- heart_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease
+- ever_married: "No" or "Yes"
+- work_type: "children", "Govt_job", "Never_worked", "Private" or "Self-employed"
+- Residence_type: "Rural" or "Urban"
+- avg_glucose_level: average glucose level in blood
+- bmi: body mass index
+- smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"
+- stroke: 1 if the patient had a stroke or 0 if not
+
 ## Overview
 
 1. Exploratory Data Analysis (EDA)
