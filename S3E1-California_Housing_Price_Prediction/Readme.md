@@ -15,7 +15,6 @@ The dataset used for this project was obtained from a Kaggle competition (https:
 3. Modeling
 4. Model Evaluation and Selection
 5. Hyperparameter Tuning
-6. Ensemble Methods
 
 ## Repository Structure
 
@@ -27,9 +26,8 @@ The dataset used for this project was obtained from a Kaggle competition (https:
 To run the project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required Python packages using the command `pip install -r requirements.txt` (if you have a `requirements.txt` file).
-3. Open the `PS - S3E1, California House price prediction.ipynb` notebook using Jupyter Notebook or JupyterLab.
-4. Run the cells in the notebook to explore the dataset, preprocess the data, and build the predictive models.
+2. Open the `PS - S3E1, California House price prediction.ipynb` notebook using Jupyter Notebook or JupyterLab.
+3. Run the cells in the notebook to explore the dataset, preprocess the data, and build the predictive models.
 
 ## Dependencies
 
