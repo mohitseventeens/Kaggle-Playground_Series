@@ -14,4 +14,4 @@ The notebooks in this repository demonstrate various machine learning techniques
 - Model Evaluation: Assessing the performance of the final model(s) using various evaluation metrics.
 - Conclusion: Summarizing the findings and discussing possible improvements.
 
-Feel free to explore the notebooks, learn from the approaches, and provide any feedback or suggestions. If you're also participating in the Kaggle Playground Series, I encourage collaboration and knowledge sharing, as we're all here to learn and grow together.
+Feel free to explore the notebooks, learn from the approaches, and provide any feedback or suggestions. If you're also participating in the Kaggle Playground Series, I encourage collaboration and knowledge sharing, as we're all here to learn and grow together. Please give an upvote to the notebooks on Kaggle if you found these notebooks helpful.
