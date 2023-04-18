@@ -22,10 +22,7 @@ The dataset used in this competition contains information about patients, includ
 ## Overview
 
 1. Exploratory Data Analysis (EDA)
-2. Data Preprocessing
-3. Modeling
-4. Model Evaluation and Selection
-5. Hyperparameter Tuning
+2. ....(to be filled after completing the notebook)
 
 ## Repository Structure
 
@@ -39,17 +36,6 @@ To run the project, follow these steps:
 1. Clone the repository to your local machine.
 2. Open the `PS - S3E1, California House price prediction.ipynb` notebook using Jupyter Notebook or JupyterLab.
 3. Run the cells in the notebook to explore the dataset, preprocess the data, and build the predictive models.
-
-## Dependencies
-
-- Python (>= 3.6)
-- NumPy
-- pandas
-- Matplotlib
-- seaborn
-- scikit-learn
-- scipy
-
 
 ## License
 
