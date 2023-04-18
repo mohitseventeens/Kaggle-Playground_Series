@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter Notebook and supporting files for the California Housing Price Prediction project. 
 The goal of this project is to predict the median house value in California using various machine learning algorithms. 
-The dataset used for this project was obtained from a Kaggle competition (https://www.kaggle.com/competitions/playground-series-s3e1/overview).
+The dataset used for this project was obtained from a Kaggle competition (https://www.kaggle.com/competitions/playground-series-s3e1/overview). Please upvote the notebook on Kaggle if you found it to be helpful. Link for the kaggle [Notebook](https://www.kaggle.com/code/mohitsonkamble2/ps-s3e1-california-house-price-prediction)
 
 ## Dataset
 
@@ -16,7 +16,6 @@ The dataset for this competition consists of two parts: train and test. Both dat
 - AveOccup - Average number of household members
 - Latitude - Block group latitude
 - Longitude - Block group longitude
-
 
 ## Overview
 
@@ -42,17 +41,6 @@ To run the project, follow these steps:
 1. Clone the repository to your local machine.
 2. Open the `PS - S3E1, California House price prediction.ipynb` notebook using Jupyter Notebook or JupyterLab.
 3. Run the cells in the notebook to explore the dataset, preprocess the data, and build the predictive models.
-
-## Dependencies
-
-- Python (>= 3.6)
-- NumPy
-- pandas
-- Matplotlib
-- seaborn
-- scikit-learn
-- scipy
-
 
 ## License
 
